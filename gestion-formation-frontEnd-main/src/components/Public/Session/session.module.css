@@ -1,0 +1,13 @@
+.previewItem {
+   display: flex;
+}
+
+.previewItem p:first-child {
+   color: gray;
+   font-weight: 700;
+   width: 150px;
+}
+
+.previewItem p:last-child {
+   flex: 1;
+}

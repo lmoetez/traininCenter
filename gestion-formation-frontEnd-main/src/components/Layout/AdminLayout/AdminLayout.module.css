@@ -1,0 +1,18 @@
+.menuItem {
+   display: flex;
+   align-items: center;
+}
+
+.menuItem a {
+   color: #64748b;
+   text-decoration: unset;
+   font-weight: 700;
+   font-size: 14px;
+}
+
+.signin {
+   display: flex;
+   align-items: center;
+   justify-content: flex-end;
+   color: #1a6ca8;
+}
